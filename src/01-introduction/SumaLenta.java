@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class SumaLenta {
 	public static void main(String [] args) {
 		int a,b;
